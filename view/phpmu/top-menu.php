@@ -38,7 +38,7 @@
 								?>
                                 <li class="tooltip_item googleplus-metro-but-16" data-toggle="tooltip" data-placement="bottom" title="admin">
                                     <div class="mask-background animated lightSpeedIn"></div>
-                                    <a href="/desa/administrator/"><i class="fa fa-edit"></i></a>
+                                    <a href="/web-sekolah/administrator/"><i class="fa fa-edit"></i></a>
                                 </li>
                                 <li class="tooltip_item fb-metro-but-16" data-toggle="tooltip" data-placement="bottom" title="facebook">
                                     <div class="mask-background animated lightSpeedIn" data-animation="lightSpeedIn"></div>

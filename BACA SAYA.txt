@@ -1,0 +1,33 @@
+UNTUK MENJALANKAN SCRIPT DI LOCALHOST
+=====================================
+
+- Disarankan memakai software Xampp versi 1.7.3 
+- Ekstrak file anekashop.rar lalu letakkan pada folder htdocs pada Xampp
+- Konfigurasi koneksi database persiksa file koneksi.php pada folder config
+
+Sesuaikan dengan database:
+
+$server = "localhost";
+$username = "root";
+$password = "";
+$database = "namadatabase";
+(bila pada Xampp kosongkan password)
+
+- Import databasenya db_desa.sql melalui phpMyAdmin pada folder database/hotel.sql
+- Jalankan browser http://localhost/namafolder
+- SELESAI
+
+
+UNTUK LOGIN KE ADMINISTRATOR
+============================
+-ketikan pada browser http://localhost/namafolder/administrator
+-Login:
+Username: admin
+password: admin123
+
+
+
+
+UNTUK SETTING ONLINE
+====================================
+-Bila di online kan rubah http://localhost/myhotel menjadi http://namadomain.com/
